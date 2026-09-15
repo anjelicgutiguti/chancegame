@@ -11,8 +11,10 @@ public class playermovement : MonoBehaviour
     {
         myRB = GetComponent<Rigidbody>();
 
+        
 
     }
+
 
 
     // Update is called once per frame
